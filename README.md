@@ -65,21 +65,6 @@ This will help you practice **object-oriented programming** and **ArrayList oper
 
 ---
 
-## ✏️ Sample Menu Interaction
-
-=== Library Menu ===
-
-Add Book
-
-Remove Book
-
-Display All Books
-...
-Enter choice: 1
-Enter title: Java Basics
-Enter author: John Doe
-Enter ISBN: 12345
-Book added successfully!
 
 ## ✅ Grading Rubric
 
