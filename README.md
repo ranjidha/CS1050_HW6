@@ -1,6 +1,6 @@
 # 📚 Library Management System using ArrayLists
 
-**Due Date:** 5/11/2025  
+**Due Date:** 5/13/2025  
 **Total Points:** 100
 
 ---
