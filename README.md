@@ -1,8 +1,7 @@
 # 📚 Library Management System using ArrayLists
 
-**Course:** [Your Course Name]  
-**Due Date:** [Insert Due Date]  
-**Total Points:** [Insert Points]
+**Due Date:** 5/11/2025  
+**Total Points:** 100
 
 ---
 
