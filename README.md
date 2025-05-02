@@ -71,11 +71,10 @@ This will help you practice **object-oriented programming** and **ArrayList oper
 | Criteria                              | Points  |
 |---------------------------------------|---------|
 | Book and Library classes implemented  | 20      |
-| All required methods working          | 20      |
-| Console menu functional and clear     | 20      |
+| All required methods working          | 25      |
+| Console menu functional and clear     | 25      |
 | Error handling and input validation   | 15      |
 | Code readability and documentation    | 15      |
-| Bonus: File persistence               | +5      |
 | **Total**                             | **100** |
 
 ---
