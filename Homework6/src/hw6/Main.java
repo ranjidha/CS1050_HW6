@@ -1,6 +1,4 @@
 package hw6;
-//Name
-//Time taken:
 
 //Add other classes here or separate java files in same package
 public class Main {
